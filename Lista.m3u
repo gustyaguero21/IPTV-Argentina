@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 9 MENDOZA" tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="TV",CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 2" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="TV",LOS SIMPSONS 2
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Cartoons" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="TV",Retro Cartoons
