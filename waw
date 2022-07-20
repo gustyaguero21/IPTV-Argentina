@@ -3,7 +3,3 @@
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="TV",TNT Sports
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominion" tvg-logo="https://spottis.com/img/public/jurassic-world-dominion-logo.png" group-title="TV",Jurassic World Dominion
-https://delivery181.akamai-cdn-content.com/hls2/01/05861/5wn5dy1sy9y4_h/index-v1-a1.m3u8?t=b6KUkfgxeXj5z3cWxr4L32A-ASWWsIBU6frS2VyJ_gU&s=1658337842&e=21600&f=29309066&srv=dyxrwhepkjbuycppcnkw&client=138.117.19.27
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="TV",HBO
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/track_3_6000/playlist.m3u8
