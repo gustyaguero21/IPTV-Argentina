@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="TV",Espn Premium
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+Fox_Sport_Premium-avc1_2499584=8.m3u8
+#EXT-X-I-FRAME-STREAM-INF:URI="ESPN Premium-iframe-avc1_1499136=6.m3u8",BANDWIDTH=218498,AVERAGE-BANDWIDTH=198635,CODECS="avc1.420020",RESOLUTION=1280x720
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="TV",TNT Sports
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="TV",Espn Premium
-Fox_Sport_Premium-avc1_1499136=6.m3u8
