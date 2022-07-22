@@ -1,1 +1,41 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",Espn Premium
+https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="Deportes",TNT Sports
+https://tw.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20210102195101&path-prefix=es" group-title="Deportes",ESPN 
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN2_logo.svg" group-title="Deportes",ESPN 2
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN3_Logo.png" group-title="Deportes",ESPN 3
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="TV",Cartoon Network
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Mendoza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_9_Televida_%28Logo_2015%29.webp" group-title="TV",Canal 9 Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1342725618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="TV",Disney Channel
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="TV",Canal 13
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/A24-logo.svg" group-title="TV",A24
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TV",TV Publica
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg" group-title="TV",Canal 26
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="TV",TNT
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="TV",HBO
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://es.wikipedia.org/wiki/Star_Channel#/media/Archivo:Star_Channel_2020.svg" group-title="TV",Star Channel
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://es.wikipedia.org/wiki/Warner_Bros.#/media/Archivo:Warner_Bros._(2019)_logo.svg" group-title="TV",Warner
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://es.wikipedia.org/wiki/Cinecanal#/media/Archivo:CinecanalLA.png" group-title="TV",Cinecanal
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
