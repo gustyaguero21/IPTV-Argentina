@@ -33,9 +33,9 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="TV",HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://es.wikipedia.org/wiki/Star_Channel#/media/Archivo:Star_Channel_2020.svg" group-title="TV",Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1024px-Star_Channel_2020.svg.png" group-title="TV",Star Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://es.wikipedia.org/wiki/Warner_Bros.#/media/Archivo:Warner_Bros._(2019)_logo.svg" group-title="TV",Warner
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Warner_Bros._%282019%29_logo.svg" group-title="TV",Warner
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://es.wikipedia.org/wiki/Cinecanal#/media/Archivo:CinecanalLA.png" group-title="TV",Cinecanal
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV",Cinecanal
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
