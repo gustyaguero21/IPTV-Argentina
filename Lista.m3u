@@ -13,8 +13,6 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="TV",Cartoon Network
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Mendoza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_9_Televida_%28Logo_2015%29.webp" group-title="TV",Canal 9 Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1342725618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="TV",Disney Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="TV",Canal 13
